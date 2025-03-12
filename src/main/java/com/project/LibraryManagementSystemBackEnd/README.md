@@ -90,9 +90,9 @@ Custom exceptions ensure meaningful error responses.
 
  ✅***Role-Bases Access***
 
-   + **Librarian** &rarr Manages users, books , and requests.
-   + **Professor** &rarr Can borrow, return and request books.
-   + **Student** &rarr Can borrow and return books.
+   + **Librarian** → Manages users, books , and requests.
+   + **Professor** → Can borrow, return and request books.
+   + **Student** → Can borrow and return books.
 
 ## **How to Run the Project**
 
